@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/93090939/166172671-95c8529b-f38f-4f24-a84d-fe4a2ca87b24.png)
+
+
 Simples projeto de automatização do processo de criação e inicialização de repositórios para projetos no GitHub, feito usando Python e BASH, como projeto extracurricular com os alunos Lucas Severino, Matheus Alves Beirigo e Gabriel Amado, do curso de Engenharia de Computação da Universidade Federal de Uberlândia. 
 
 **Modo de uso**:

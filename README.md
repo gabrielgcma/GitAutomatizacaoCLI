@@ -2,6 +2,7 @@ Simples projeto de automatização do processo de criação e inicialização de
 
 **Modo de uso**:
 - Instale as dependências descritas no arquivo `requisitos.txt` usando `pip`.
+- Crie um arquivo, no mesmo diretório onde estão instalados os arquivos deste código, com o nome de .env, para guardar as credenciais.
 - Preencha o arquivo `.env` com as suas credenciais do GitHub.
 - Disponibilize o script BASH dos comandos usando `source comandos.sh`. 
 - Com isso, pode-se executar `criar nomeDoSeuProjeto`.
